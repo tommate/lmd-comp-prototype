@@ -1,2 +1,3 @@
-# lmd-comp-prototype
-Single page - Bootstrap 5 - Sass
+# Easy single-page prototype
+
+Include [Bootstrap](https://getbootstrap.com)'s source Sass and compiled JavaScript bundle via npm. 
