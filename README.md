@@ -1,6 +1,7 @@
 # Easy single-page prototype
 
-Include [Bootstrap](https://getbootstrap.com)'s source Sass and compiled JavaScript bundle via npm. 
+The goal is to upgrade the single page *index.html* to the latest Bootstrap version, using SCSS.
+
 
 # Instructions
 
@@ -11,5 +12,7 @@ Include [Bootstrap](https://getbootstrap.com)'s source Sass and compiled JavaScr
 - Avoid "style" HTML attribute, put the maximum of the SCSS code in styles.scss
 
 - Excepted : inlined CSS so that the browser can display the logo and #intro, without loading the whole css file. This css file is loaded at the end of the HTML body. This optimizes page display.
+
+- The resulting page must be responsive, as the original
 
 - The old css is provided to help you
